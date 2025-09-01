@@ -2,7 +2,7 @@
 A two layer encrypter
 
 
-GitHub Encrypter (Batch)
+Encrypter (Batch)
 
 Author: MasterOFTechYT
 
