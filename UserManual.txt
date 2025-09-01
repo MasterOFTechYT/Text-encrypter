@@ -1,0 +1,54 @@
+USER MANUAL — Encrypter (Batch)
+Overview
+
+This batch script, Encrypter, allows you to encrypt or decrypt files on your Windows system. Use this guide to operate the script safely and correctly.
+
+Steps to Use
+
+Run the Script as Administrator
+
+Right-click encrypter.bat and select Run as administrator.
+
+Running as administrator is required to read/write files in C:\.
+
+Choose Operation
+
+The script will ask you to select an option:
+
+Type 1 for Encrypt
+
+Type 2 for Decrypt
+
+Enter Passwords
+
+Password 1: 255083
+
+Password 2: 165298
+
+File Locations
+
+For Decryption, ensure the file to decrypt is located in C:\.
+
+For Encryption, the output will also be saved in C:\.
+
+Important Restriction
+
+Only files that were originally encrypted using this GitHub Encrypter can be decrypted successfully. Attempting to decrypt other files will fail.
+
+Follow Prompts
+
+The script will guide you through any additional steps. Make sure to follow on-screen instructions carefully.
+
+Notes
+
+Ensure you have the necessary permissions to read/write files in C:\.
+
+Only use these passwords with the provided batch file. Changing passwords will cause the script to fail.
+
+Keep the original files as backups before encryption to avoid data loss.
+
+Contact / Support
+
+For questions or issues, contact MasterOFTechYT.
+
+This manual is intended for personal, non-commercial use in accordance with the MONC-ND 1.0 license.
