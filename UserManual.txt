@@ -45,10 +45,11 @@ Ensure you have the necessary permissions to read/write files in C:\.
 
 Only use these passwords with the provided batch file. Changing passwords will cause the script to fail.
 
-Keep the original files as backups before encryption to avoid data loss.
+Keep the original (text)files as backups before encryption to avoid data loss.
 
 Contact / Support
 
 For questions or issues, contact MasterOFTechYT.
+
 
 This manual is intended for personal, non-commercial use in accordance with the MONC-ND 1.0 license.
