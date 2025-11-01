@@ -6,7 +6,7 @@ Encrypter (Batch)
 
 Author: MasterOFTechYT
 
-License: MasterOFTechYT Non-Commercial No-Derivatives License (CC BY-NC-ND 4.0) — see LICENSE.
+License: MasterOFTechYT Non-Commercial No-Derivatives License (CC BY-NC-ND 4.0).
 
 Description
 
