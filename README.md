@@ -15,7 +15,7 @@ This repository contains a batch script named GitHub Encrypter, intended strictl
 IMPORTANT: Selling, modifying, or distributing modified versions is prohibited without written permission. Every redistribution must include this LICENSE file and retain the attribution: "Original by MasterOFTechYT".
 
 Repository Contents
-
+ 
 encrypter.bat — the main batch script.
 
 LICENSE — license terms.
